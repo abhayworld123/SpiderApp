@@ -42,3 +42,4 @@ export function useCardDrag(onDragStart, onDragMove, onDragEnd) {
   return panResponder;
 }
 
+
